@@ -2,8 +2,8 @@
 <l7:Item xmlns:l7="http://ns.l7tech.com/2010/04/gateway-management">
     <l7:Name>Bundle</l7:Name>
     <l7:Type>BUNDLE</l7:Type>
-    <l7:TimeStamp>2019-12-17T15:21:35.330Z</l7:TimeStamp>
-    <l7:Link rel="self" uri="https://2d43b183d71b:8443/restman/1.0/bundle?service=725797201380c06fba2ea44dc5ea7b35&amp;encryptSecrets=true"/>
+    <l7:TimeStamp>2020-01-28T15:44:34.312Z</l7:TimeStamp>
+    <l7:Link rel="self" uri="https://ce0b027c7c43:8443/restman/1.0/bundle?service=725797201380c06fba2ea44dc5ea7b35&amp;encryptSecrets=true"/>
     <l7:Resource>
         <l7:Bundle>
             <l7:References>
@@ -11,7 +11,7 @@
                     <l7:Name>SSL</l7:Name>
                     <l7:Id>00000000000000000000000000000002:SSL</l7:Id>
                     <l7:Type>SSG_KEY_ENTRY</l7:Type>
-                    <l7:TimeStamp>2019-12-17T15:21:35.183Z</l7:TimeStamp>
+                    <l7:TimeStamp>2020-01-28T15:44:34.304Z</l7:TimeStamp>
                     <l7:Resource>
                         <l7:PrivateKey alias="SSL" keystoreId="00000000000000000000000000000002" id="00000000000000000000000000000002:SSL">
                             <l7:CertificateChain>
@@ -27,7 +27,7 @@
     <l7:StringValue>RSA</l7:StringValue>
 </l7:Property>
 <l7:Property key="keyData">
-    <l7:StringValue bundleKey="$L7C2$1bead,8ae4JqYYAVxeEJAr8teefYFSQL/G6c+V1bwMfAyVQM4=$IZpntO5q1DIzQQRpCGPISQvlhIEMivVv9+Lw4h4qkp5WmsWDwSG+VAke1Nbhgxp29Na0CRPGw/oRzd2OR5E4K2pJ/YD+DlQfxbGXSGnqIFf4vGf3yR7/XQtjVDNhOfp+" algorithm="RSA">$L7C2$1,UsjPPmciYAVz+o4E4LVI5pBrknaiv+hC610qWsqyKUk=$u+ve/ENgTnt3SOpWI64lhPvI5p9QXMDdn52X+fL4eSAyPrypE9b1Vga6NDZlEI/MoXAm73jzjyvHq7Y/voaKzCQCR301K/LA8PQE8+4IZcwtLbxPihYrjtICMeJN/LLybkFs+52QGJjCN6bRCJR7pjwFxBsn06aD0HirhUwsUQpe0dDqV60x18oLvn0/bvZ2DDLjM3vDZpcJ/aYWhi0Kv3H+mxVsJDZlnxhDCyY/oVSZRslttD1AqjLwXRd91j/QLGq2ARNhyC8PQDKmV1y8tyInKxgvdt8phepBgkyn0QxEgDwO+LEuw7IUIou0fG0Jff1sHKW1YN+Y25SCr1XQwlXz5DXLOXDQSJE31cv2cbs5l+Y1RWvamTR5aK0ENhjG2A5wxhcxnkVKns1QN7rlU/lY+6HTJOPIdskibDZSCTlfdzkxWyq4YB0ycwqr4kGhIDQBlCXpUT18SBLPGbb0BEi+/KyQykZGq+A6mc45H0P7gNiXVcMaFJtWRen0zvd7PT/ENA48zGA/5a2LX23yVrCUOUUvjZG9ojomz0SW/NjOE/NGagSt8Ot8sr2spTrrftkoXrDTThkrOxthq2c0BVLokJj9YA2TK1Ee238pgFJRTCEuWXEGKQ4VJKf/EgkCEYRwhK09gIU2I2xhBBK31ZXu4ASU6CooS+NLovReBBILiWBXghJIOhNhYvrGXUufIo5Z+UTQD2FLuY7O+pk7tgSL5CGoCpm7cX+n7B8ojq+AL5ZPptFVCEGeYCXgCFLplX31j7Ngum2fR7BaSLk5Nh+rNOCdL6DWN5qfOwyi9UQcr0QTVJdzAB1ntwcI6UF59lQPhe9wK15D3XxvBsYX0ci37j+Ktss6EeM+F1OxBEpYNXJ6bSluDsV9zJzyItaipv6gTb03ZQ+eloVXi+lPHy7JH2atPWCvF2J1R1c7DoEwkniBBkbLHpmvV5sZkqWCvfs8h1dYyycgHUgygbdv7Avw9wOEOxmZB7vVUpBBgszdCoWQSsKWbWRKwd3bqNeOI5djb/lf1kJ7kGOvQJ/pLB3Z914lj2oOwMCfNi5eAsroRvA0og/T3hTisIcNGz1u23d5B/BOlCH3DAC5snYsuNySOLyKmxcOePO3/86xT3rflUGtZwl0fEFbvZqxbD5VZz6kvgdrI4CDW7vM6FYfPuYWuxZH+ipUKNqKTOv2kGyKGhgv1Y7/STyioiBXtSASIFikaa21TPR5uQpQUfq/DzPNAUNGc3OhPiL5mnzR2N1s9uWOjBy06a7dKUQvzFwVInszSc4t1+luoJr/z+QiBQAyWACBD2jslUwe1Qq6j7xW97WuaMXooj0zB439kCj46FLx7Yeb2Tc4vPJVrB2SsyPhVBcaakGXfCje24AW0YIotWv8PJ0N0/JVNnPvFi1xTjag3uAJ70Rbf1oeSj5pvDwwjo/ajFU9rruB14vuYRwNtT84yZXCL0QKzdSGWW/7pB6dKuggdHRRHW5/Y/2/7ZVD3sF/qwtuYnEA1zqtHKySOYCZ+mRRKndmdg/C9c/6JpbVAq4RrYgNogeZq1sYvqadjnForTXpNaNLF+RRovbE1lyTX8XzZqXsJGv0ccfEhjIxHD+en8uFm39l5u09wRc3ttCXy/dYyNLZqmVH1mI+XG//eYaeU1OjHRZP6Dg+55JCuACiGZ8FjY0XWkoH8rgv7kmLKltCSFbVY9H5Zqs=</l7:StringValue>
+    <l7:StringValue bundleKey="$L7C2$1bead,46xJu/sratI79JbZRLhM3FzP8ZKMRZfKoSLz9Rnv6Hw=$ZGMoZ63HM098IPF88UDvd95AqoTS+LDeaGtRntAKdnYOZON4k10Yg4adDRzsk7gRuuEReoyx/ctdF0QzUjn/zj6jco9qTXskL8+ya7iF4jHEaQAJB4nVHMRIQshvWcPF" algorithm="RSA">$L7C2$1,pkqGvcHXf+YgKyR5P6yrB7/e0xyPpuy2fGzzFKBnWXI=$F1b0VRqYyjEHBV/xlucHLD2h7pnNW39wC4z1N25DGRUO0phG86vWakXv5vOyxcbo5vVzT+/eTzU2GimrexqnhO9J6g0hYwbrXqorumRhqvV2Vgacv/UYU5dpQO75cjS9lfRFf5v6UDc0oSEfr82E1v74vE5EVhpc0CAq/b8woXlY1n24+O5S1tGz/71A+DKrhLl4Za6Jp1k6Dtkx+eECQeN4BomEtCiOHX5jvCCy/lQA33TodXBb+Pn40+gR6VYtX2uJW1kDByo7yHZBhAV8n9Esj4yhFGTaTYepPvkK2i5R8f8oPfoRQg+38mcJDwisKDx4KzAu50ukVjRXZfp4WnRPdE/xsthUjn4tWNHLc0rashg8CqMb4U/yvB/qWXnOONEoG9caRDie/e+sJk9HX1DxnF7W7yJKLZSqqSeZOB0mvaFqb/cG9g11H+qGTpLyzsWgbR13pVyTViR7Sj9k05FRFUEdLrejfwG5xzo6VgOXuFOz7m8QOQX0fwCp7Ve2CrmbrMO9v3JsOloQQG24OTdJRyaGo8entvCnapySLOt7p0ed1OIRFlRTg/RuRBHC3dQyCCP/FjQQ13uhZ/I1QiJ51E7FPG1d4bGIL/If1l7mvxf0UobLTnkJSfMsCuaY5KoYBcI/CidDR9H63jANcS6hFYnTmyXpUW3mmmPeNSm23x1nU//RTcQxD0blwgwmzxPoiDewL/Zb3USzuCWK+ZFpq/9ILzu7oE88ZRvxAwO6x/7CbVj9d2qtV1hT7lhf9b5D6Uw50sEJFm0JCuaJbU6xNyKeORBqu0PLts9scBZC84tFkHHn0t7cbY87gksCMNLFhlhW9KoUVxxqQsERMSQw/1tzgMg6SW6sXGzSPhJF83dlEJW6DiQ6m7sD+vCLUJTUGw+30oz1fAQlkL7GO/sQ8zOn8ediVNZTulTwD2/4n0ifK7URHBzuoTPX7P3ucFuMrlVF3vMkTD5md9aqgFquhgVIjE0GnSSYN2+it+Tf2zrwizDofnIgz1+WT/aNjAkkbcGN+yPE0G2n9Xze/P00xq0c1yV+YOpQ2H3Q9JUhns4WND1FDdb2Rljl3vDK8rOxBndNRsyVEH5SK2fGj9Y6ff5jwDml2XpRgGh+Oc45hUfs3bYWP2dSe9VdDnnl4njvzQQ24erCEwtjP2yPSc9mTStCx2u4M5+wkSP9efen6Z00bqA0X5jNLhSrcPMiiQaPGmqYPz+g5xDnPKLHOXkQ3zWwNBYcJ9FBpksGdFoQybupieB6qQyPDQBI77Opedi1hIopPkA3Nv6JiaRRfPmndQqMdFDS3tZWKWZwhJyJCidxvkHuvsqlQS8O1VGJXwqg0uPKhTAF7YRX3XW4rKo53ZB53ih1IhXyuXRiUk9lQ9JsVSPRJo9qDMiiSWc7WYYFr0OMNevz86DTajaRDgcg4y6zroVO96h80wtOPOAmCYxBF/HVbzHXz6fQ0/u0k8yyXOXFFErC5c6icDGhtbHP4llI8muxEGLyn813kv0Iu6q4TXf23UH4H3+hWXjA2e7/RC1nZiukE4FZmxP0hn2vxNE/TXG/8LrWVMlaoXJkGAe6Lf7UDMSV3NuozAayXhFQM6RpALPe0JmN+kwQodig8sx1uu85XWb5xEmYzFqiMem0oXy78dhNzD3VAcaB9vw1AjNWp091bxpVxuFNqYmmzsUKEZ/UkGyTECLOV+I=</l7:StringValue>
 </l7:Property>
 <l7:Property key="specialPurposes">
     <l7:StringValue>Default SSL Key</l7:StringValue>
@@ -40,7 +40,7 @@
                     <l7:Name>Check IBAN</l7:Name>
                     <l7:Id>725797201380c06fba2ea44dc5ea7dd9</l7:Id>
                     <l7:Type>POLICY</l7:Type>
-                    <l7:TimeStamp>2019-12-17T15:21:35.246Z</l7:TimeStamp>
+                    <l7:TimeStamp>2020-01-28T15:44:34.305Z</l7:TimeStamp>
                     <l7:Resource>
                         <l7:Policy guid="d33ca963-2e47-4845-adf5-a8941392cce0" id="725797201380c06fba2ea44dc5ea7dd9" version="7">
                             <l7:PolicyDetail folderId="bdc65b433f5ba73683da2692b780af80" guid="d33ca963-2e47-4845-adf5-a8941392cce0" id="725797201380c06fba2ea44dc5ea7dd9" version="7">
@@ -109,7 +109,7 @@
                     <l7:Name>Check IBAN</l7:Name>
                     <l7:Id>725797201380c06fba2ea44dc5ea7e89</l7:Id>
                     <l7:Type>ENCAPSULATED_ASSERTION</l7:Type>
-                    <l7:TimeStamp>2019-12-17T15:21:35.257Z</l7:TimeStamp>
+                    <l7:TimeStamp>2020-01-28T15:44:34.305Z</l7:TimeStamp>
                     <l7:Resource>
                         <l7:EncapsulatedAssertion id="725797201380c06fba2ea44dc5ea7e89" version="2">
                             <l7:Name>Check IBAN</l7:Name>
@@ -151,7 +151,7 @@
                     <l7:Name>Verfiy IBAN</l7:Name>
                     <l7:Id>725797201380c06fba2ea44dc5ea7b35</l7:Id>
                     <l7:Type>SERVICE</l7:Type>
-                    <l7:TimeStamp>2019-12-17T15:21:35.321Z</l7:TimeStamp>
+                    <l7:TimeStamp>2020-01-28T15:44:34.312Z</l7:TimeStamp>
                     <l7:Resource>
                         <l7:Service id="725797201380c06fba2ea44dc5ea7b35" version="5">
                             <l7:ServiceDetail folderId="bdc65b433f5ba73683da2692b780af80" id="725797201380c06fba2ea44dc5ea7b35" version="5">
@@ -173,7 +173,7 @@
         <l7:BooleanValue>false</l7:BooleanValue>
     </l7:Property>
     <l7:Property key="policyRevision">
-        <l7:LongValue>34</l7:LongValue>
+        <l7:LongValue>36</l7:LongValue>
     </l7:Property>
     <l7:Property key="soap">
         <l7:BooleanValue>false</l7:BooleanValue>
@@ -188,7 +188,7 @@
                             </l7:ServiceDetail>
                             <l7:Resources>
 <l7:ResourceSet tag="policy">
-    <l7:Resource type="policy" version="33">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+    <l7:Resource type="policy" version="35">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;wsp:Policy xmlns:L7p=&quot;http://www.layer7tech.com/ws/policy&quot; xmlns:wsp=&quot;http://schemas.xmlsoap.org/ws/2002/12/policy&quot;&gt;
     &lt;wsp:All wsp:Usage=&quot;Required&quot;&gt;
         &lt;L7p:CommentAssertion&gt;
@@ -198,7 +198,7 @@
             &lt;L7p:Comment stringValue=&quot;*** Author: Waldemar Rosenfeld&quot;/&gt;
         &lt;/L7p:CommentAssertion&gt;
         &lt;L7p:CommentAssertion&gt;
-            &lt;L7p:Comment stringValue=&quot;*** Version: 1.1&quot;/&gt;
+            &lt;L7p:Comment stringValue=&quot;*** Version: 1.3&quot;/&gt;
         &lt;/L7p:CommentAssertion&gt;
         &lt;L7p:SslAssertion/&gt;
         &lt;L7p:RateLimit&gt;
@@ -328,17 +328,17 @@
                 </l7:Item>
             </l7:References>
             <l7:Mappings>
-                <l7:Mapping action="NewOrExisting" srcId="00000000000000000000000000000002:SSL" srcUri="https://2d43b183d71b:8443/restman/1.0/privateKeys/00000000000000000000000000000002:SSL" type="SSG_KEY_ENTRY"/>
-                <l7:Mapping action="NewOrExisting" srcId="bdc65b433f5ba73683da2692b780af80" srcUri="https://2d43b183d71b:8443/restman/1.0/folders/bdc65b433f5ba73683da2692b780af80" type="FOLDER">
+                <l7:Mapping action="NewOrExisting" srcId="00000000000000000000000000000002:SSL" srcUri="https://ce0b027c7c43:8443/restman/1.0/privateKeys/00000000000000000000000000000002:SSL" type="SSG_KEY_ENTRY"/>
+                <l7:Mapping action="NewOrExisting" srcId="bdc65b433f5ba73683da2692b780af80" srcUri="https://ce0b027c7c43:8443/restman/1.0/folders/bdc65b433f5ba73683da2692b780af80" type="FOLDER">
                     <l7:Properties>
                         <l7:Property key="FailOnNew">
                             <l7:BooleanValue>true</l7:BooleanValue>
                         </l7:Property>
                     </l7:Properties>
                 </l7:Mapping>
-                <l7:Mapping action="NewOrExisting" srcId="725797201380c06fba2ea44dc5ea7dd9" srcUri="https://2d43b183d71b:8443/restman/1.0/policies/725797201380c06fba2ea44dc5ea7dd9" type="POLICY"/>
-                <l7:Mapping action="NewOrExisting" srcId="725797201380c06fba2ea44dc5ea7e89" srcUri="https://2d43b183d71b:8443/restman/1.0/encapsulatedAssertions/725797201380c06fba2ea44dc5ea7e89" type="ENCAPSULATED_ASSERTION"/>
-                <l7:Mapping action="NewOrExisting" srcId="725797201380c06fba2ea44dc5ea7b35" srcUri="https://2d43b183d71b:8443/restman/1.0/services/725797201380c06fba2ea44dc5ea7b35" type="SERVICE"/>
+                <l7:Mapping action="NewOrExisting" srcId="725797201380c06fba2ea44dc5ea7dd9" srcUri="https://ce0b027c7c43:8443/restman/1.0/policies/725797201380c06fba2ea44dc5ea7dd9" type="POLICY"/>
+                <l7:Mapping action="NewOrExisting" srcId="725797201380c06fba2ea44dc5ea7e89" srcUri="https://ce0b027c7c43:8443/restman/1.0/encapsulatedAssertions/725797201380c06fba2ea44dc5ea7e89" type="ENCAPSULATED_ASSERTION"/>
+                <l7:Mapping action="NewOrExisting" srcId="725797201380c06fba2ea44dc5ea7b35" srcUri="https://ce0b027c7c43:8443/restman/1.0/services/725797201380c06fba2ea44dc5ea7b35" type="SERVICE"/>
             </l7:Mappings>
         </l7:Bundle>
     </l7:Resource>
