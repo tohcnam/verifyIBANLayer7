@@ -1,25 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<l7:Item xmlns:l7="http://ns.l7tech.com/2010/04/gateway-management">
-    <l7:Name>Bundle</l7:Name>
-    <l7:Type>BUNDLE</l7:Type>
-    <l7:TimeStamp>2020-01-28T15:44:34.312Z</l7:TimeStamp>
-    <l7:Link rel="self" uri="https://ce0b027c7c43:8443/restman/1.0/bundle?service=725797201380c06fba2ea44dc5ea7b35&amp;encryptSecrets=true"/>
-    <l7:Resource>
-        <l7:Bundle>
+<l7:Bundle xmlns:l7="http://ns.l7tech.com/2010/04/gateway-management">
             <l7:References>
                 <l7:Item>
                     <l7:Name>SSL</l7:Name>
                     <l7:Id>00000000000000000000000000000002:SSL</l7:Id>
                     <l7:Type>SSG_KEY_ENTRY</l7:Type>
-                    <l7:TimeStamp>2020-01-28T15:44:34.304Z</l7:TimeStamp>
+                    <l7:TimeStamp>2020-02-07T08:29:49.311Z</l7:TimeStamp>
                     <l7:Resource>
                         <l7:PrivateKey alias="SSL" keystoreId="00000000000000000000000000000002" id="00000000000000000000000000000002:SSL">
                             <l7:CertificateChain>
 <l7:CertificateData>
-    <l7:IssuerName>CN%3Da86ad1229bfe</l7:IssuerName>
-    <l7:SerialNumber>15353432286601016542</l7:SerialNumber>
-    <l7:SubjectName>CN%3Da86ad1229bfe</l7:SubjectName>
-    <l7:Encoded>MIIC8zCCAdugAwIBAgIJANUSWVGV3fTeMA0GCSqGSIb3DQEBDAUAMBcxFTATBgNVBAMTDGE4NmFkMTIyOWJmZTAeFw0xOTExMjYxMTE3NTdaFw0yOTExMjMxMTE3NTdaMBcxFTATBgNVBAMTDGE4NmFkMTIyOWJmZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKe4Biq1BULIdyn820hEKgAlyhF5rKdv9lxBZL4ml9/r9HL2uF+6UlJtPXWKIv83zeopFUJzkpFn9Hc/+CbDQG+NOwTh0Csq7fjizfbbl1A2UDHujn0fZkK4NjnKGyZdf5ooGMipM5/Ek1FAECKmWFptHaOSF+lYZkyys+oJZ46w/y88VOtPoJV6FXySRfAbHBoYxOL1OkEdudSnpsqD+AeN9YzRwJCbiXHynjon0ZGmoluJEN1VD361cRvZnm2+euGFRJlLAo05URHGcP2U3/8JRzvq4QKftT7ltHOj4aysLSCnXErIp69OB8vGqt/rvHhr6WvcmlY/1zbiQ7ChkBsCAwEAAaNCMEAwHQYDVR0OBBYEFM5lUGs8bLZTnF6QNWWIMh5v0WeIMB8GA1UdIwQYMBaAFM5lUGs8bLZTnF6QNWWIMh5v0WeIMA0GCSqGSIb3DQEBDAUAA4IBAQAGjmtYMkUIlH0nYCLWLkZc2YVNsVuU2qP4vz0Vyc4MDGTxUE2BQ1XHnsYdHelkB1Hx3guHLZU5b3TkIjVoSmY+i/ctloKpXfo6nLbStJHc5Og7n+xYNZFGFNpKmXe1Xx38RQg+I/oPnutTFFbdeP7lRPyJFER5uQhBjqgyD+EL2BKgae4LFJHNIxCshoO+GDhwyNAbQtihPRPqv7XuxKf0mb5A114hoa+ydt+OR5xiZYujOlTZievVqwXHZUGlgywuSH/hXsZPsvKwZh5WNNrnBOWz317VQTiKBVECpge+AqxdNEeJCkdZ+bXwoQRSywgqowNmQCwUM2e2stmKs/J4</l7:Encoded>
+    <l7:IssuerName>CN%3D6d3095b61858</l7:IssuerName>
+    <l7:SerialNumber>3850365724295781246</l7:SerialNumber>
+    <l7:SubjectName>CN%3D6d3095b61858</l7:SubjectName>
+    <l7:Encoded>MIIC8jCCAdqgAwIBAgIINW8/OeP9W34wDQYJKoZIhvcNAQEMBQAwFzEVMBMGA1UEAxMMNmQzMDk1YjYxODU4MB4XDTE5MDcwNDA5MjgzM1oXDTI5MDcwMTA5MjgzM1owFzEVMBMGA1UEAxMMNmQzMDk1YjYxODU4MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAozrf552zOGxS/ncF36U8DVuQL1RjDusyWkqVPPuS4dG9tBpvyMm7RzfphetbOMVvB1LxHXhmW7WdSV3qgHBTRPPe4Yp+7zyNtuHUAVQ5geNDKd/0AbRK5KmVld5Fd6cldZkSoSjII+A0j/WncNQh1NCVuezUfVtrZn6LW9enI+6lRgA0Iae8tsoA5QHWGbwd25EKwl2JzI/3eGH1cUO1ZPnQuroWKsw+/klUXsJ+Mgb4ScdTP+32qKHyK7Dk4ROCYCXx5yF6PeuCoW0oMO6M07KsPGps83ZRrStusJ7lY8IxfkiGZnt3nkkc9VkFmd78fWo21fs9tSIQy7YUE6GMuQIDAQABo0IwQDAdBgNVHQ4EFgQU13Uj1Z62ksi59h2S9ZaNyhv+Tn8wHwYDVR0jBBgwFoAU13Uj1Z62ksi59h2S9ZaNyhv+Tn8wDQYJKoZIhvcNAQEMBQADggEBAIK4iZf1RwkT9IsAD8siIyGj52c6TOP+xkAeyASlJXUA1ZoRl8UvUl6zK4qLaJtIgUyUGZOHFJdOR45I/NUcB6iQ1ZimReChao9vEA1wDZwJjkRXyrm+sxIhxdBUbBIlQ2o4teZOXadWyo6cxW9+iqf+YL+7ybahLmHvTcgQUPYmsPY8iH3NfvNBASgMj0W+Y61IBZifTYUSYTSnQZVKC2IMTVURZPv78LF4Yklx28VLpYoDcnEGumJ7+QWNhlGSDrjibD4ABDiTMDmEtwGZUT90G+MWaSZF0A0wjPPWK9BoCw3XjimHyF0Tf89JJZkbiLvK7t2GS5CQiq/q/YWSubQ=</l7:Encoded>
 </l7:CertificateData>
                             </l7:CertificateChain>
                             <l7:Properties>
@@ -27,7 +20,7 @@
     <l7:StringValue>RSA</l7:StringValue>
 </l7:Property>
 <l7:Property key="keyData">
-    <l7:StringValue bundleKey="$L7C2$1bead,46xJu/sratI79JbZRLhM3FzP8ZKMRZfKoSLz9Rnv6Hw=$ZGMoZ63HM098IPF88UDvd95AqoTS+LDeaGtRntAKdnYOZON4k10Yg4adDRzsk7gRuuEReoyx/ctdF0QzUjn/zj6jco9qTXskL8+ya7iF4jHEaQAJB4nVHMRIQshvWcPF" algorithm="RSA">$L7C2$1,pkqGvcHXf+YgKyR5P6yrB7/e0xyPpuy2fGzzFKBnWXI=$F1b0VRqYyjEHBV/xlucHLD2h7pnNW39wC4z1N25DGRUO0phG86vWakXv5vOyxcbo5vVzT+/eTzU2GimrexqnhO9J6g0hYwbrXqorumRhqvV2Vgacv/UYU5dpQO75cjS9lfRFf5v6UDc0oSEfr82E1v74vE5EVhpc0CAq/b8woXlY1n24+O5S1tGz/71A+DKrhLl4Za6Jp1k6Dtkx+eECQeN4BomEtCiOHX5jvCCy/lQA33TodXBb+Pn40+gR6VYtX2uJW1kDByo7yHZBhAV8n9Esj4yhFGTaTYepPvkK2i5R8f8oPfoRQg+38mcJDwisKDx4KzAu50ukVjRXZfp4WnRPdE/xsthUjn4tWNHLc0rashg8CqMb4U/yvB/qWXnOONEoG9caRDie/e+sJk9HX1DxnF7W7yJKLZSqqSeZOB0mvaFqb/cG9g11H+qGTpLyzsWgbR13pVyTViR7Sj9k05FRFUEdLrejfwG5xzo6VgOXuFOz7m8QOQX0fwCp7Ve2CrmbrMO9v3JsOloQQG24OTdJRyaGo8entvCnapySLOt7p0ed1OIRFlRTg/RuRBHC3dQyCCP/FjQQ13uhZ/I1QiJ51E7FPG1d4bGIL/If1l7mvxf0UobLTnkJSfMsCuaY5KoYBcI/CidDR9H63jANcS6hFYnTmyXpUW3mmmPeNSm23x1nU//RTcQxD0blwgwmzxPoiDewL/Zb3USzuCWK+ZFpq/9ILzu7oE88ZRvxAwO6x/7CbVj9d2qtV1hT7lhf9b5D6Uw50sEJFm0JCuaJbU6xNyKeORBqu0PLts9scBZC84tFkHHn0t7cbY87gksCMNLFhlhW9KoUVxxqQsERMSQw/1tzgMg6SW6sXGzSPhJF83dlEJW6DiQ6m7sD+vCLUJTUGw+30oz1fAQlkL7GO/sQ8zOn8ediVNZTulTwD2/4n0ifK7URHBzuoTPX7P3ucFuMrlVF3vMkTD5md9aqgFquhgVIjE0GnSSYN2+it+Tf2zrwizDofnIgz1+WT/aNjAkkbcGN+yPE0G2n9Xze/P00xq0c1yV+YOpQ2H3Q9JUhns4WND1FDdb2Rljl3vDK8rOxBndNRsyVEH5SK2fGj9Y6ff5jwDml2XpRgGh+Oc45hUfs3bYWP2dSe9VdDnnl4njvzQQ24erCEwtjP2yPSc9mTStCx2u4M5+wkSP9efen6Z00bqA0X5jNLhSrcPMiiQaPGmqYPz+g5xDnPKLHOXkQ3zWwNBYcJ9FBpksGdFoQybupieB6qQyPDQBI77Opedi1hIopPkA3Nv6JiaRRfPmndQqMdFDS3tZWKWZwhJyJCidxvkHuvsqlQS8O1VGJXwqg0uPKhTAF7YRX3XW4rKo53ZB53ih1IhXyuXRiUk9lQ9JsVSPRJo9qDMiiSWc7WYYFr0OMNevz86DTajaRDgcg4y6zroVO96h80wtOPOAmCYxBF/HVbzHXz6fQ0/u0k8yyXOXFFErC5c6icDGhtbHP4llI8muxEGLyn813kv0Iu6q4TXf23UH4H3+hWXjA2e7/RC1nZiukE4FZmxP0hn2vxNE/TXG/8LrWVMlaoXJkGAe6Lf7UDMSV3NuozAayXhFQM6RpALPe0JmN+kwQodig8sx1uu85XWb5xEmYzFqiMem0oXy78dhNzD3VAcaB9vw1AjNWp091bxpVxuFNqYmmzsUKEZ/UkGyTECLOV+I=</l7:StringValue>
+    <l7:StringValue bundleKey="$L7C2$1bead,qDLZxHWK1f84/phu4NirBMrlSHZyvdiqecE5+HpRxP4=$+7CCawDHaxY2gGd9SPwv0okX3uID6ImCdGf9lCuRKTThw+YmLpy+FAUoqsaypFM4b7JK7VFtZlxVO1OTmQEo8RrU/GkCDcuEyxAt89KVyZxV1bvqEes8eQiZQ4PbRitl" algorithm="RSA">$L7C2$1,cfwKqJJDJNX0gt1H8M4ZoPjM2sF46v8han4mWLsARrA=$XnechIRtCXM54SSmGICon9S2CBAv1S1zj3P/H6nGWXWZ6WFa6vKqmUJq2ELj0bsqP5NWvk0yPm42VQpSxF7mxKcdpbPQZwDn12hNJc/62EckRfSRYwSbZsKL94poPi5dfQfGm5/UcIjQR8zMYAse2vpVj5oHoqOj5ISL+h9ZmUBuI7OrChoko9tmlNWq9HzpwGij9EyW4SlrVqB2AOXE9Ep04WNhpH88AK5ewUjYfmzWtY94scSDzj3iDbIXeJ0uf9TGjGCKNDgCbI1IIYOnCdNuYQTrT11KnMHQfitY298Dqn4jQ2wFbKLEyOgW8hvnBROh0g1X94wyuGoWQCIwL1VBTIGcpERmg5K1C9mmNVonskFzW0FSBDE0FCs9F7+RY6WsKncHdqQChlw0m8Kj5rg0fl+AUIPppyTd07lTmYXmSRJbb9gt+LQfjPXtgxE+XHZP07Qao0msGUNBvz6E5z2Uia1hXZbDfaZBI01MwCvTFc2/wIvWaBKYHPR/9/5LGt9pkcp9GQoQbG4qp2YZuK0DsQK6X4BOSl9kMYdotthBHB/fK6UXuvWrvnTKtmLyhqcuvAvN7IUNTG/4DMUygFkAQoWlEIpcq6qj5qJF2i8GPnu4Zkl/FawpJbRkQrrTUpZGbvEgxAH7/HcC3ZVOIQDrRVl12fIV0ZXOcYFtgwSieOaPu2cNo+B+q5a2X/vleRBJoxkdoGsWWmLZSx2okJcaTJi23Ikh/XFd28+PHAz/UuoNuenAOuhY+x1AIOuY4lkCqUOfZZyPDRnFqpTSv9/nhKNH/+sOAeGGxBC/rfuxPMTVd/h1LOsA0KnvaljYVby+AlwKhoej6uiXRJzumNixLGLCBFlftTbM8ar8hFy/Zj7KzDL9mZH9kKTAK7Puy0jwEZQh0CjVYFYa4wMAG/H9/IEwhF+/8qbksmQF1Od1blL5Fm8owyuoDT41vMH/dEBiKBAQGlffKEUOmG2+9Mb59gJz3w0rkk1GChmyTB+5oV8/Od47TLKlRUGKVSa80s7aSwWqBqsAwTGA59Z67VyfWiTKKd8bSIk7vhRHJ8YXmc5MqgU4RH8qpynINFiUQQNllPlP1cj1z30RzP+5F2WXjpyXPVidSPV/xfQ0/HPBR2LW2l8Xo4GyESoBZ2MTRrJmal5SJVJg3YgsGp30I8A19y0PHfkXUErJkTVmVgn4iJtT5vOYTU++IMaZKd4npme3vTh2hZTagDxUViSr58TERqPmrx/nWMKairgTCAQXMjLf4nOF0EPRWObo7ooNZHy7jOlWAbSppm7oHNkY/jXQzvDx9ligJDrqtULn7mWr3fCrbxdn0RFtMgXNcn2K8dT0L1bZQsQB72WRqh9OubCNg/ITMCFVakkCB/JQ3IgBzvqLvQdokzF1/64xV988+M3BoRoTl8x4a4fgjZmQ4u7QXEezodCKTziR8TcJpAoB4D2NBG9CE9ypULSNIzN2d8WQIoGUamfQs+Vlw7oDx4pvGWiiFAIn82M59EU5WpfDu7VR8UG/cv4AJZs2vD7IokLA95hHklKhkmeWls9CCkUWPwTma919qyPS1vVBVUebHgb+V5AXZkg2a9xOsTpqAvewU2dtWZVHryDfDRDX4YboH32XpHPLGCIG0xt6mgMatpQ4FnG6cGZtqzYtlXF0cjO/QT0G5L/fO9h5LEypKl3E/Lg56byaJjwSEGsvEZs=</l7:StringValue>
 </l7:Property>
 <l7:Property key="specialPurposes">
     <l7:StringValue>Default SSL Key</l7:StringValue>
@@ -40,15 +33,15 @@
                     <l7:Name>Check IBAN</l7:Name>
                     <l7:Id>725797201380c06fba2ea44dc5ea7dd9</l7:Id>
                     <l7:Type>POLICY</l7:Type>
-                    <l7:TimeStamp>2020-01-28T15:44:34.305Z</l7:TimeStamp>
+                    <l7:TimeStamp>2020-02-07T08:29:49.313Z</l7:TimeStamp>
                     <l7:Resource>
-                        <l7:Policy guid="d33ca963-2e47-4845-adf5-a8941392cce0" id="725797201380c06fba2ea44dc5ea7dd9" version="7">
-                            <l7:PolicyDetail folderId="bdc65b433f5ba73683da2692b780af80" guid="d33ca963-2e47-4845-adf5-a8941392cce0" id="725797201380c06fba2ea44dc5ea7dd9" version="7">
+                        <l7:Policy guid="d33ca963-2e47-4845-adf5-a8941392cce0" id="725797201380c06fba2ea44dc5ea7dd9" version="0">
+                            <l7:PolicyDetail folderId="bdc65b433f5ba73683da2692b780af80" guid="d33ca963-2e47-4845-adf5-a8941392cce0" id="725797201380c06fba2ea44dc5ea7dd9" version="0">
 <l7:Name>Check IBAN</l7:Name>
 <l7:PolicyType>Include</l7:PolicyType>
 <l7:Properties>
     <l7:Property key="revision">
-        <l7:LongValue>7</l7:LongValue>
+        <l7:LongValue>1</l7:LongValue>
     </l7:Property>
     <l7:Property key="soap">
         <l7:BooleanValue>false</l7:BooleanValue>
@@ -64,7 +57,7 @@
             &lt;L7p:Comment stringValue=&quot;Policy Fragment: Check IBAN&quot;/&gt;
         &lt;/L7p:CommentAssertion&gt;
         &lt;L7p:HttpRoutingAssertion&gt;
-            &lt;L7p:ProtectedServiceUrl stringValue=&quot;http://ssg-dev:8080/v1/verifyibanbackend?iban=${iban}&quot;/&gt;
+            &lt;L7p:ProtectedServiceUrl stringValue=&quot;http://localhost:8080/v1/verifyibanbackend?iban=${iban}&quot;/&gt;
             &lt;L7p:ProxyPassword stringValueNull=&quot;null&quot;/&gt;
             &lt;L7p:ProxyUsername stringValueNull=&quot;null&quot;/&gt;
             &lt;L7p:RequestHeaderRules httpPassthroughRuleSet=&quot;included&quot;&gt;
@@ -109,9 +102,9 @@
                     <l7:Name>Check IBAN</l7:Name>
                     <l7:Id>725797201380c06fba2ea44dc5ea7e89</l7:Id>
                     <l7:Type>ENCAPSULATED_ASSERTION</l7:Type>
-                    <l7:TimeStamp>2020-01-28T15:44:34.305Z</l7:TimeStamp>
+                    <l7:TimeStamp>2020-02-07T08:29:49.313Z</l7:TimeStamp>
                     <l7:Resource>
-                        <l7:EncapsulatedAssertion id="725797201380c06fba2ea44dc5ea7e89" version="2">
+                        <l7:EncapsulatedAssertion id="725797201380c06fba2ea44dc5ea7e89" version="0">
                             <l7:Name>Check IBAN</l7:Name>
                             <l7:Guid>900c3f91-c8a1-4ecd-9ede-4c77f691f522</l7:Guid>
                             <l7:PolicyReference id="725797201380c06fba2ea44dc5ea7dd9" resourceUri="http://ns.l7tech.com/2010/04/gateway-management/policies"/>
@@ -151,10 +144,10 @@
                     <l7:Name>Verfiy IBAN</l7:Name>
                     <l7:Id>725797201380c06fba2ea44dc5ea7b35</l7:Id>
                     <l7:Type>SERVICE</l7:Type>
-                    <l7:TimeStamp>2020-01-28T15:44:34.312Z</l7:TimeStamp>
+                    <l7:TimeStamp>2020-02-07T08:29:49.318Z</l7:TimeStamp>
                     <l7:Resource>
-                        <l7:Service id="725797201380c06fba2ea44dc5ea7b35" version="5">
-                            <l7:ServiceDetail folderId="bdc65b433f5ba73683da2692b780af80" id="725797201380c06fba2ea44dc5ea7b35" version="5">
+                        <l7:Service id="725797201380c06fba2ea44dc5ea7b35" version="2">
+                            <l7:ServiceDetail folderId="bdc65b433f5ba73683da2692b780af80" id="725797201380c06fba2ea44dc5ea7b35" version="2">
 <l7:Name>Verfiy IBAN</l7:Name>
 <l7:Enabled>true</l7:Enabled>
 <l7:ServiceMappings>
@@ -173,7 +166,7 @@
         <l7:BooleanValue>false</l7:BooleanValue>
     </l7:Property>
     <l7:Property key="policyRevision">
-        <l7:LongValue>36</l7:LongValue>
+        <l7:LongValue>2</l7:LongValue>
     </l7:Property>
     <l7:Property key="soap">
         <l7:BooleanValue>false</l7:BooleanValue>
@@ -188,7 +181,7 @@
                             </l7:ServiceDetail>
                             <l7:Resources>
 <l7:ResourceSet tag="policy">
-    <l7:Resource type="policy" version="35">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+    <l7:Resource type="policy" version="1">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;wsp:Policy xmlns:L7p=&quot;http://www.layer7tech.com/ws/policy&quot; xmlns:wsp=&quot;http://schemas.xmlsoap.org/ws/2002/12/policy&quot;&gt;
     &lt;wsp:All wsp:Usage=&quot;Required&quot;&gt;
         &lt;L7p:CommentAssertion&gt;
@@ -200,11 +193,6 @@
         &lt;L7p:CommentAssertion&gt;
             &lt;L7p:Comment stringValue=&quot;*** Version: 1.3&quot;/&gt;
         &lt;/L7p:CommentAssertion&gt;
-        &lt;L7p:SslAssertion/&gt;
-        &lt;L7p:RateLimit&gt;
-            &lt;L7p:CounterName stringValue=&quot;PRESET(d3352a16979e79f4)${request.tcp.remoteAddress}&quot;/&gt;
-            &lt;L7p:WindowSizeInSeconds stringValue=&quot;30&quot;/&gt;
-        &lt;/L7p:RateLimit&gt;
         &lt;wsp:OneOrMore wsp:Usage=&quot;Required&quot;&gt;
             &lt;wsp:All wsp:Usage=&quot;Required&quot;&gt;
                 &lt;L7p:HtmlFormDataAssertion&gt;
@@ -258,58 +246,31 @@
                     &lt;L7p:DataType variableDataType=&quot;message&quot;/&gt;
                     &lt;L7p:VariableToSet stringValue=&quot;data&quot;/&gt;
                 &lt;/L7p:SetVariable&gt;
-                &lt;wsp:OneOrMore wsp:Usage=&quot;Required&quot;&gt;
-                    &lt;wsp:All wsp:Usage=&quot;Required&quot;&gt;
-                        &lt;L7p:JSONSchema&gt;
-                            &lt;L7p:JsonSchemaVersion jsonSchemaVersion=&quot;DRAFT_V4&quot;/&gt;
-                            &lt;L7p:OtherTargetMessageVariable stringValue=&quot;data&quot;/&gt;
-                            &lt;L7p:ResourceInfo staticResourceInfo=&quot;included&quot;&gt;
-                                &lt;L7p:Document stringValueReference=&quot;inline&quot;&gt;&lt;![CDATA[{
-  &quot;$schema&quot;: &quot;http://json-schema.org/draft-04/schema#&quot;,
-  &quot;type&quot;: &quot;object&quot;,
-  &quot;properties&quot;: {
-    &quot;iban&quot;: {
-      &quot;type&quot;: &quot;string&quot;
-    }
-  },
-  &quot;additionalProperties&quot;: false,
-  &quot;required&quot;: [
-    &quot;iban&quot;
-  ]
-}]]&gt;&lt;/L7p:Document&gt;
-                            &lt;/L7p:ResourceInfo&gt;
-                            &lt;L7p:Target target=&quot;OTHER&quot;/&gt;
-                        &lt;/L7p:JSONSchema&gt;
-                        &lt;L7p:EvaluateJsonPathExpressionV2&gt;
-                            &lt;L7p:Evaluator stringValue=&quot;JsonPath&quot;/&gt;
-                            &lt;L7p:Expression stringValue=&quot;iban&quot;/&gt;
-                            &lt;L7p:OtherTargetMessageVariable stringValue=&quot;data&quot;/&gt;
-                            &lt;L7p:Target target=&quot;OTHER&quot;/&gt;
-                            &lt;L7p:VariablePrefix stringValue=&quot;iban&quot;/&gt;
-                        &lt;/L7p:EvaluateJsonPathExpressionV2&gt;
-                        &lt;L7p:SetVariable&gt;
-                            &lt;L7p:Base64Expression stringValue=&quot;JHtpYmFuLnJlc3VsdH0=&quot;/&gt;
-                            &lt;L7p:VariableToSet stringValue=&quot;iban&quot;/&gt;
-                        &lt;/L7p:SetVariable&gt;
-                        &lt;L7p:Encapsulated&gt;
-                            &lt;L7p:EncapsulatedAssertionConfigGuid stringValue=&quot;900c3f91-c8a1-4ecd-9ede-4c77f691f522&quot;/&gt;
-                            &lt;L7p:EncapsulatedAssertionConfigName stringValue=&quot;Check IBAN&quot;/&gt;
-                            &lt;L7p:Parameters mapValue=&quot;included&quot;&gt;
-                                &lt;L7p:entry&gt;
-                                    &lt;L7p:key stringValue=&quot;iban&quot;/&gt;
-                                    &lt;L7p:value stringValue=&quot;${iban}&quot;/&gt;
-                                &lt;/L7p:entry&gt;
-                            &lt;/L7p:Parameters&gt;
-                        &lt;/L7p:Encapsulated&gt;
-                        &lt;L7p:HardcodedResponse&gt;
-                            &lt;L7p:Base64ResponseBody stringValue=&quot;ewoJImliYW4iOiAiJHtpYmFufSIsCgkiaXNfdmFsaWQiOiAiJHtyZXN1bHR9Igp9&quot;/&gt;
-                            &lt;L7p:ResponseContentType stringValue=&quot;application/json; charset=UTF-8&quot;/&gt;
-                        &lt;/L7p:HardcodedResponse&gt;
-                    &lt;/wsp:All&gt;
-                    &lt;wsp:All wsp:Usage=&quot;Required&quot;&gt;
-                        &lt;L7p:RaiseError/&gt;
-                    &lt;/wsp:All&gt;
-                &lt;/wsp:OneOrMore&gt;
+                &lt;L7p:EvaluateJsonPathExpressionV2&gt;
+                    &lt;L7p:Evaluator stringValue=&quot;JsonPath&quot;/&gt;
+                    &lt;L7p:Expression stringValue=&quot;iban&quot;/&gt;
+                    &lt;L7p:OtherTargetMessageVariable stringValue=&quot;data&quot;/&gt;
+                    &lt;L7p:Target target=&quot;OTHER&quot;/&gt;
+                    &lt;L7p:VariablePrefix stringValue=&quot;iban&quot;/&gt;
+                &lt;/L7p:EvaluateJsonPathExpressionV2&gt;
+                &lt;L7p:SetVariable&gt;
+                    &lt;L7p:Base64Expression stringValue=&quot;JHtpYmFuLnJlc3VsdH0=&quot;/&gt;
+                    &lt;L7p:VariableToSet stringValue=&quot;iban&quot;/&gt;
+                &lt;/L7p:SetVariable&gt;
+                &lt;L7p:Encapsulated&gt;
+                    &lt;L7p:EncapsulatedAssertionConfigGuid stringValue=&quot;900c3f91-c8a1-4ecd-9ede-4c77f691f522&quot;/&gt;
+                    &lt;L7p:EncapsulatedAssertionConfigName stringValue=&quot;Check IBAN&quot;/&gt;
+                    &lt;L7p:Parameters mapValue=&quot;included&quot;&gt;
+                        &lt;L7p:entry&gt;
+                            &lt;L7p:key stringValue=&quot;iban&quot;/&gt;
+                            &lt;L7p:value stringValue=&quot;${iban}&quot;/&gt;
+                        &lt;/L7p:entry&gt;
+                    &lt;/L7p:Parameters&gt;
+                &lt;/L7p:Encapsulated&gt;
+                &lt;L7p:HardcodedResponse&gt;
+                    &lt;L7p:Base64ResponseBody stringValue=&quot;ewoJImliYW4iOiAiJHtpYmFufSIsCgkiaXNfdmFsaWQiOiAiJHtyZXN1bHR9Igp9&quot;/&gt;
+                    &lt;L7p:ResponseContentType stringValue=&quot;application/json; charset=UTF-8&quot;/&gt;
+                &lt;/L7p:HardcodedResponse&gt;
             &lt;/wsp:All&gt;
             &lt;wsp:All wsp:Usage=&quot;Required&quot;&gt;
                 &lt;L7p:HardcodedResponse&gt;
@@ -328,18 +289,16 @@
                 </l7:Item>
             </l7:References>
             <l7:Mappings>
-                <l7:Mapping action="NewOrExisting" srcId="00000000000000000000000000000002:SSL" srcUri="https://ce0b027c7c43:8443/restman/1.0/privateKeys/00000000000000000000000000000002:SSL" type="SSG_KEY_ENTRY"/>
-                <l7:Mapping action="NewOrExisting" srcId="bdc65b433f5ba73683da2692b780af80" srcUri="https://ce0b027c7c43:8443/restman/1.0/folders/bdc65b433f5ba73683da2692b780af80" type="FOLDER">
+                <l7:Mapping action="NewOrExisting" srcId="00000000000000000000000000000002:SSL" srcUri="https://9efd3fb90cae:9443/restman/1.0/privateKeys/00000000000000000000000000000002:SSL" type="SSG_KEY_ENTRY"/>
+                <l7:Mapping action="NewOrExisting" srcId="bdc65b433f5ba73683da2692b780af80" srcUri="https://9efd3fb90cae:9443/restman/1.0/folders/bdc65b433f5ba73683da2692b780af80" type="FOLDER">
                     <l7:Properties>
                         <l7:Property key="FailOnNew">
                             <l7:BooleanValue>true</l7:BooleanValue>
                         </l7:Property>
                     </l7:Properties>
                 </l7:Mapping>
-                <l7:Mapping action="NewOrExisting" srcId="725797201380c06fba2ea44dc5ea7dd9" srcUri="https://ce0b027c7c43:8443/restman/1.0/policies/725797201380c06fba2ea44dc5ea7dd9" type="POLICY"/>
-                <l7:Mapping action="NewOrExisting" srcId="725797201380c06fba2ea44dc5ea7e89" srcUri="https://ce0b027c7c43:8443/restman/1.0/encapsulatedAssertions/725797201380c06fba2ea44dc5ea7e89" type="ENCAPSULATED_ASSERTION"/>
-                <l7:Mapping action="NewOrExisting" srcId="725797201380c06fba2ea44dc5ea7b35" srcUri="https://ce0b027c7c43:8443/restman/1.0/services/725797201380c06fba2ea44dc5ea7b35" type="SERVICE"/>
+                <l7:Mapping action="NewOrExisting" srcId="725797201380c06fba2ea44dc5ea7dd9" srcUri="https://9efd3fb90cae:9443/restman/1.0/policies/725797201380c06fba2ea44dc5ea7dd9" type="POLICY"/>
+                <l7:Mapping action="NewOrExisting" srcId="725797201380c06fba2ea44dc5ea7e89" srcUri="https://9efd3fb90cae:9443/restman/1.0/encapsulatedAssertions/725797201380c06fba2ea44dc5ea7e89" type="ENCAPSULATED_ASSERTION"/>
+                <l7:Mapping action="NewOrExisting" srcId="725797201380c06fba2ea44dc5ea7b35" srcUri="https://9efd3fb90cae:9443/restman/1.0/services/725797201380c06fba2ea44dc5ea7b35" type="SERVICE"/>
             </l7:Mappings>
         </l7:Bundle>
-    </l7:Resource>
-</l7:Item>
