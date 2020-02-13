@@ -4,7 +4,7 @@
                     <l7:Name>SSL</l7:Name>
                     <l7:Id>00000000000000000000000000000002:SSL</l7:Id>
                     <l7:Type>SSG_KEY_ENTRY</l7:Type>
-                    <l7:TimeStamp>2020-02-07T10:49:10.778Z</l7:TimeStamp>
+                    <l7:TimeStamp>2020-02-13T10:34:11.786Z</l7:TimeStamp>
                     <l7:Resource>
                         <l7:PrivateKey alias="SSL" keystoreId="00000000000000000000000000000002" id="00000000000000000000000000000002:SSL">
                             <l7:CertificateChain>
@@ -20,7 +20,7 @@
     <l7:StringValue>RSA</l7:StringValue>
 </l7:Property>
 <l7:Property key="keyData">
-    <l7:StringValue bundleKey="$L7C2$1bead,Czk43F/iYlakabWzsNwPAQj6zt+Ezx5fm6EiIJC+QKk=$b4A0DgKuL0ww4t9xi8fxxwjuSfMUEsSVw7dG37jVksX1KH8OE2JXTQFPoqyqB70Ge9ld/6hyt1kSZZ3m74WsJxM+sPLC5Q7NRuI8vfTW93VBqUSfyKn5JjsiyrCC/kTs" algorithm="RSA">$L7C2$1,QE+tKyUpfWGGiX38pXCpWiZzT5kfGf0O9fIQFB8G4Lg=$YTrU8zTHsRXzDDPr3dQBXCd/ULwajJL88bo4tt4JcaesQSMPmFRwhqfjiAufwHZapQ+bLgu8LRaxobhKG1PEUTZBVgESLoib7EyHajBH5FiAN7R0KO61TtnYwtFt/oEed8HS05WsYVJPkuuMJvwVUFY8haJHQbe2mxKozsIWrKDVQj6VuApE6cnGxlKHc5ior1uhqKjWiho7u/UL6xsv3d1vKNWO+3y5YcKrsznFDneJgp3ovrLfWZrdrzY2MHQihDbDe24PUEL1BOXGtOQX2xS9X+FONlb9OT/IhRBQptfkE2tTs/jtSsCwLjfNDOTo+rt/wKHyv2NLzroyV2zR6bw3yOocDjuxmsmUtxuiz+4mcfo9wagZtte7rkiQozdGTX+GtwtzLY+zVlabZBZoHc74AlueWCiaL2Vz7BHN48XchVG5ck9ZlpHmSgPtgvUD5tSW8DAbSdAIPJtv4fW+NKpjfacn9eZsgCZ0P4ZJV/Y75bPjVYWyD4Wr+Qb9d6+cPjM/xnx/aq9G7RdhL6Iawa+wP0PDGinB4gtQyLOpL+Kk3Il1Yfb5BiQfGYJjtx9DgUfEPXWH6YdYirwuHHaJDutvo5bHzTeYHJXMx6vr2g1VHgI12k+ieIpze2+ZI2d5Pzbtzjh2G1/Cuqb8J4O0UPmxxYRiGJrJMlnbCDKtzRiFe7tUZALSvY/9eyyV9jSeZ1fYJ2zuFMXC0r/3RGPwc2kY80H/ipgfF26ADl7/I3EABA7ThkbW/5TS+z4MSNLzaifLWEseuCz0uFrzIYwy5rfOX8WLh5aJ2cfNqLYUs3bVKPAndvYlspUbZHHG0yz7aZofUNHPDaSB2sTi17M1LNCFCFOp0AuFcBHMDlbproI/krvRB4f1YsQ4O/4Karl24iEPiwYq1PTa+R/iV/iCE3v68rC1XsCPaaS+jIZLjoZKVA44hb54kkXj/Xas99uydpp/ZNnu1la6B4ZM8XN1poGsZg4657WJHTpPUkwKUns5hA3zaHJ4I6DbRLvw1pdmMJ4XuOpt0GJNOQg2pr9pBx5zIP97V+H7ZMy5QZL80OvqoD/k3ErWzXV71khzWQVQLkNClZ+UoZWv5sgccmVjwmxN2KuL5qxLaS3iaEFaXcoWc4ZIwm2F6U/sq5G0hRWUho0J1NDCN/TQUxpVOH51hw5NVuwh6rQAJOlRlVa8xStPZ4bMyBHv/MsXtcwDz1msPswfs3xo4v9q1981mUBGuxjN6/ek18Ja0GNS7B/M2kGkfPIZFGGoDOLIwntmAF+aRaEVUfIcyyi12RnK4rR+7QmnM+vl20Nk+lRpb31U2qIyZN1gsTTxcv7pHvvYtaEUSXAkDi0KE8Oym3ZHuraIy69nyn81RmWtequkLyk1RHQNk0hbkn6BXzPfM+hTH23WfYVcc1EF/3IwWfXf9hHe5LAxA0o3QQKUlBoy4oTg9LQut2qZaN8X2lmGm1k8PJzlRlFhIW0rlg3qEzfnztgMKNitFxjGxed5yJT7pzNyWnsES4xPzvfEF4O5VOFup6Spm7Aig6CPl6vYCLQLWQzqQaXaWyscvTOznQeuqpN2/qMaARDkpOl9Msjb5aFU7GGLZ6VjFnokACPPLiQgWAqpaV4Ei83wn5UGsOwgb5hc6RJOxuyCb8sLofvzLdzH+SG5ePRutRD1ynBAg/5C+sKyu63uBMUBaLE+Zw+df6knszY=</l7:StringValue>
+    <l7:StringValue bundleKey="$L7C2$1bead,m9N0XSCI3t2YPxq8N1zup0VhV5nBPlqDpi8IJA4jCQw=$d+Wj12LgpS4FSP83ZX6Yc6owDgooRhiVDAAgpgCLjyijLlucRcniXX20nuT20vd6c2x/FgEEhjaStAmqqx2is2aJF8ZIV6IorkbsRitVuCyY8GQvJFZf5Vh2QgWZIudu" algorithm="RSA">$L7C2$1,KQuSu6kQfugqn2GafM2S6xjolaTWym4lAK/F0B4SGCY=$iU+i8p8Hxc5+a8shA05sbdqbX+SqHdd2zfnBxheQdMD7gTJc3iHv5weAc2EUd0j/feHF0244O+awP+iSQCOWvugS1BBjshuKwACJYHQ2VKQyaZqb/v1iinu1qco397ID/2cRPfQOY018fySia/avqxsXzxr3wAWXGiOUoCA0t7ceYMwnPFAByqVPlNxzk+mnxoB921UweXUiijKujAzLoGkTA3HTylfx+4HN0NDDBNoO70t1n/GjhyiMO2JbyIbaLrrzainNM3GY4kcVgLzO60Na1p6iGw61VHlp9pUu4Y2SXRmSuQVfMHFSUKkMLHz5GjFELBUbNJGvEPYiqgDJkf4J8vQL9YcC3jZqHvKnE/hMfrQSPV6COqZbAX8JDsvPbn6+8oXc0i8EWyQ4b5Kcsx8myKGBsSS5N0MpkuewMTiOGeJAAlooes25aInUDhNoE3KcRSQI2VVnxeS3ddKeLbDyoQ+XJRzhzObo/SF3JHabuyH/6CCIh9/Jzcw5MHLytxT9A8tjv7vMgsUCeJTW1h8SE53hM/gQSG8rn/XXhCUs1tdr1v1ABGaFm76JwWvEv6OQwtTsMQMR6R3kCsFp+9FR1iUJBaflcRYBBaF9qSpauyhW00vn3Sn/KjfgMTxnptrEdWkddr4z09i3dm4nd4gzHYWH1WoFRaNPZTPzoIdJHLahUkyO9QWVy648nBW0LjQk4d179Mx3qAXIEfoyiSHh7rqCkvE6KUgudVbMg5mrJYCCILIAXH+oEC0dQEruk47hnRxhlPf1p8XqTRYO/XDvidbrNJGEEBVxSbX31rmBE5cPWWXk6IP5VpKYE68HLgM+uBO621KUpOZgDimZ8dIYq9GADcVLRMEnVVQQDtq1XXRe2VO2poKmmVL2lfESBZI4G9yukGT3XAIiQi/0VF3eb8FmBTTP1Iiiv24pvace9AS5EQ+UR6nvqKNzK90Vfh93mK8Il3eHiNYQMQdVMgFHFDDfO+7AnqaPGY0op137PsYBM9FT+hb3r1nLwLhoHNEUbUwmSMdWyRF0PthLUfMVDaahxpMPJJQZb7xp8ffXg9E2XYqNthrEI7aaSqD6WH+Y1tNiEuXyV2FVySr/CDNewhJERfJjA+/4QcBBMTG10eKwyoQzyWBzw6QYLZVKOp6saRUFHCNRT8rNacoxkSeqZrEysM27Vr8ShpFE+eN1aBuhN3yWr6/r7RP4oswyeH/Fd5ugAL7EmgVYuXyukqCFiPMF4L7M4NOXEw4bMYLC4gWWAle/nBf3jPjwVk+P2b6hr8ySVq7+vYLor9xgt4HmiovR4BdIsq1Ir4lxlDOxlnq5TyTw/uSmpRLNkMuI0rQWUr3HYOFN2zc3Ij9DCq6OtFksVyLlU4S6rhl3fkGEXMqx7Emctb3mzyLamdfaQnidqcXmMpxIvHh29APu252jpdDwhYNkezkSpAvoPwvdDRmxe/iA02EUA/IbkDcvawsbraMIvY7odnR8R6r+Dt7GKwpm5AR3KCJ7Hu1WKY0I443lkE11Up1UDgnpSo6yAq+7VvhH55Lhjf7RxyqDpbZNDkfo9Rof3LEGX4vLAwqqTJk5Gf5J22+PxOUk10YZuyaGddpH9d/SiEAeuvHc6pJnMoBEdo0+1iT3WrfccQ1KDe3QKTkjtS4wk95lxVa7orj71I2eEDH8rG1nvakZ93e6p2gRxyiIIc30YMnY7fQ=</l7:StringValue>
 </l7:Property>
 <l7:Property key="specialPurposes">
     <l7:StringValue>Default SSL Key</l7:StringValue>
@@ -33,15 +33,15 @@
                     <l7:Name>Check IBAN</l7:Name>
                     <l7:Id>725797201380c06fba2ea44dc5ea7dd9</l7:Id>
                     <l7:Type>POLICY</l7:Type>
-                    <l7:TimeStamp>2020-02-07T10:49:10.779Z</l7:TimeStamp>
+                    <l7:TimeStamp>2020-02-13T10:34:11.800Z</l7:TimeStamp>
                     <l7:Resource>
-                        <l7:Policy guid="d33ca963-2e47-4845-adf5-a8941392cce0" id="725797201380c06fba2ea44dc5ea7dd9" version="0">
-                            <l7:PolicyDetail folderId="bdc65b433f5ba73683da2692b780af80" guid="d33ca963-2e47-4845-adf5-a8941392cce0" id="725797201380c06fba2ea44dc5ea7dd9" version="0">
+                        <l7:Policy guid="d33ca963-2e47-4845-adf5-a8941392cce0" id="725797201380c06fba2ea44dc5ea7dd9" version="1">
+                            <l7:PolicyDetail folderId="bdc65b433f5ba73683da2692b780af80" guid="d33ca963-2e47-4845-adf5-a8941392cce0" id="725797201380c06fba2ea44dc5ea7dd9" version="1">
 <l7:Name>Check IBAN</l7:Name>
 <l7:PolicyType>Include</l7:PolicyType>
 <l7:Properties>
     <l7:Property key="revision">
-        <l7:LongValue>1</l7:LongValue>
+        <l7:LongValue>2</l7:LongValue>
     </l7:Property>
     <l7:Property key="soap">
         <l7:BooleanValue>false</l7:BooleanValue>
@@ -57,7 +57,7 @@
             &lt;L7p:Comment stringValue=&quot;Policy Fragment: Check IBAN&quot;/&gt;
         &lt;/L7p:CommentAssertion&gt;
         &lt;L7p:HttpRoutingAssertion&gt;
-            &lt;L7p:ProtectedServiceUrl stringValue=&quot;http://localhost:8080/v1/verifyibanbackend?iban=${iban}&quot;/&gt;
+            &lt;L7p:ProtectedServiceUrl stringValue=&quot;http://ssgdev-demo:8080/v1/verifyibanbackend?iban=${iban}&quot;/&gt;
             &lt;L7p:ProxyPassword stringValueNull=&quot;null&quot;/&gt;
             &lt;L7p:ProxyUsername stringValueNull=&quot;null&quot;/&gt;
             &lt;L7p:RequestHeaderRules httpPassthroughRuleSet=&quot;included&quot;&gt;
@@ -102,7 +102,7 @@
                     <l7:Name>Check IBAN</l7:Name>
                     <l7:Id>725797201380c06fba2ea44dc5ea7e89</l7:Id>
                     <l7:Type>ENCAPSULATED_ASSERTION</l7:Type>
-                    <l7:TimeStamp>2020-02-07T10:49:10.779Z</l7:TimeStamp>
+                    <l7:TimeStamp>2020-02-13T10:34:11.802Z</l7:TimeStamp>
                     <l7:Resource>
                         <l7:EncapsulatedAssertion id="725797201380c06fba2ea44dc5ea7e89" version="0">
                             <l7:Name>Check IBAN</l7:Name>
@@ -144,7 +144,7 @@
                     <l7:Name>Verfiy IBAN</l7:Name>
                     <l7:Id>725797201380c06fba2ea44dc5ea7b35</l7:Id>
                     <l7:Type>SERVICE</l7:Type>
-                    <l7:TimeStamp>2020-02-07T10:49:10.783Z</l7:TimeStamp>
+                    <l7:TimeStamp>2020-02-13T10:34:11.820Z</l7:TimeStamp>
                     <l7:Resource>
                         <l7:Service id="725797201380c06fba2ea44dc5ea7b35" version="2">
                             <l7:ServiceDetail folderId="bdc65b433f5ba73683da2692b780af80" id="725797201380c06fba2ea44dc5ea7b35" version="2">
@@ -289,16 +289,16 @@
                 </l7:Item>
             </l7:References>
             <l7:Mappings>
-                <l7:Mapping action="NewOrExisting" srcId="00000000000000000000000000000002:SSL" srcUri="https://9efd3fb90cae:9443/restman/1.0/privateKeys/00000000000000000000000000000002:SSL" type="SSG_KEY_ENTRY"/>
-                <l7:Mapping action="NewOrExisting" srcId="bdc65b433f5ba73683da2692b780af80" srcUri="https://9efd3fb90cae:9443/restman/1.0/folders/bdc65b433f5ba73683da2692b780af80" type="FOLDER">
+                <l7:Mapping action="NewOrExisting" srcId="00000000000000000000000000000002:SSL" srcUri="https://bac66db0bb00:9443/restman/1.0/privateKeys/00000000000000000000000000000002:SSL" type="SSG_KEY_ENTRY"/>
+                <l7:Mapping action="NewOrExisting" srcId="bdc65b433f5ba73683da2692b780af80" srcUri="https://bac66db0bb00:9443/restman/1.0/folders/bdc65b433f5ba73683da2692b780af80" type="FOLDER">
                     <l7:Properties>
                         <l7:Property key="FailOnNew">
                             <l7:BooleanValue>true</l7:BooleanValue>
                         </l7:Property>
                     </l7:Properties>
                 </l7:Mapping>
-                <l7:Mapping action="NewOrExisting" srcId="725797201380c06fba2ea44dc5ea7dd9" srcUri="https://9efd3fb90cae:9443/restman/1.0/policies/725797201380c06fba2ea44dc5ea7dd9" type="POLICY"/>
-                <l7:Mapping action="NewOrExisting" srcId="725797201380c06fba2ea44dc5ea7e89" srcUri="https://9efd3fb90cae:9443/restman/1.0/encapsulatedAssertions/725797201380c06fba2ea44dc5ea7e89" type="ENCAPSULATED_ASSERTION"/>
-                <l7:Mapping action="NewOrExisting" srcId="725797201380c06fba2ea44dc5ea7b35" srcUri="https://9efd3fb90cae:9443/restman/1.0/services/725797201380c06fba2ea44dc5ea7b35" type="SERVICE"/>
+                <l7:Mapping action="NewOrExisting" srcId="725797201380c06fba2ea44dc5ea7dd9" srcUri="https://bac66db0bb00:9443/restman/1.0/policies/725797201380c06fba2ea44dc5ea7dd9" type="POLICY"/>
+                <l7:Mapping action="NewOrExisting" srcId="725797201380c06fba2ea44dc5ea7e89" srcUri="https://bac66db0bb00:9443/restman/1.0/encapsulatedAssertions/725797201380c06fba2ea44dc5ea7e89" type="ENCAPSULATED_ASSERTION"/>
+                <l7:Mapping action="NewOrExisting" srcId="725797201380c06fba2ea44dc5ea7b35" srcUri="https://bac66db0bb00:9443/restman/1.0/services/725797201380c06fba2ea44dc5ea7b35" type="SERVICE"/>
             </l7:Mappings>
         </l7:Bundle>
